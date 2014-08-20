@@ -1,0 +1,2 @@
+[11-Feb-2014 12:56:49 America/Chicago] PHP Fatal error:  Call to undefined function get_newpatientreport() in /home/vleaminc/public_html/beta/potr/newpatients.php on line 13
+[11-Feb-2014 12:57:35 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/vleaminc/public_html/beta/potr/logout.php on line 2

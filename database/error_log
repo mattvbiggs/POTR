@@ -1,0 +1,3 @@
+[18-Feb-2014 09:21:35 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/vleaminc/public_html/beta/potr/database/submitcase.php on line 55
+[18-Feb-2014 09:39:27 America/Chicago] PHP Warning:  mysql_errno() expects parameter 1 to be resource, object given in /home/vleaminc/public_html/beta/potr/database/submitcase.php on line 55
+[18-Feb-2014 09:39:27 America/Chicago] PHP Warning:  mysql_error() expects parameter 1 to be resource, object given in /home/vleaminc/public_html/beta/potr/database/submitcase.php on line 55
